@@ -2,7 +2,7 @@ import { Icons } from "@/components/icons";
 
 export const DATA = {
   name: "Saurav Tandukar",
-  initials: "DV",
+  initials: "ST",
   url: "https://dillion.io",
   location: "Lalitpur, Nepal",
   locationLink: "https://google.com/maps/place/Gusingal/@27.689353,85.3065463,17z/data=!3m1!4b1!4m6!3m5!1s0x39eb19f7c16cfc57:0xbce879a58fb36193!8m2!3d27.689353!4d85.3091212!16s%2Fg%2F11vb4d4vhg?entry=ttu",
