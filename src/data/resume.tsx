@@ -3,7 +3,7 @@ import { Icons } from "@/components/icons";
 export const DATA = {
   name: "Saurav Tandukar",
   initials: "ST",
-  url: "https://dillion.io",
+  url: "https://www.linkedin.com/in/saurav-tandukar-8571a4241/",
   location: "Lalitpur, Nepal",
   locationLink: "https://google.com/maps/place/Gusingal/@27.689353,85.3065463,17z/data=!3m1!4b1!4m6!3m5!1s0x39eb19f7c16cfc57:0xbce879a58fb36193!8m2!3d27.689353!4d85.3091212!16s%2Fg%2F11vb4d4vhg?entry=ttu",
   description:
@@ -51,7 +51,7 @@ export const DATA = {
       badges: [],
       location: "Onsite",
       title: "React Developer",
-      logoUrl: "/lunivalogo.png",
+      logoUrl: "public/lunivalogo.png",
       start: "May 2022",
       end: "Dec 2023",
       description:
@@ -63,7 +63,7 @@ export const DATA = {
       href: "https://igc.com.np",
       location: "Hybrid",
       title: "Front End Developer",
-      logoUrl: "/igc.jpg",
+      logoUrl: "public/igc.jpg",
       start: "Dec 2023",
       end: "Present",
       description:
@@ -76,7 +76,7 @@ export const DATA = {
       school: "Purbanchal University",
       href: "https://www.puexam.edu.np/",
       degree: "BIT",
-      logoUrl: "/purbanchal.png",
+      logoUrl: "public/purbanchal.png",
       start: "2023",
       end: "2024",
     },
@@ -103,7 +103,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "/bakersden.mp4",
+        "public/bakersden.mp4",
     },
     {
       title: "Mission Go Japan",
@@ -126,7 +126,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/igc.mp4",
+      video: "public/igc.mp4",
     },
   ],
 
