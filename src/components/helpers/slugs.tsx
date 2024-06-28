@@ -6,11 +6,11 @@ export const slugs = [
 
   "html5",
   "css3",
-  "sqlserver",
+  "mssqlserver",
   "firebase",
-
+  "php",
   "vercel",
-
+  "mysql",
   "git",
 
   "github",
