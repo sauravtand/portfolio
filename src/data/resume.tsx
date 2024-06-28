@@ -51,7 +51,7 @@ export const DATA = {
       badges: [],
       location: "Onsite",
       title: "React Developer",
-      logoUrl: "public/lunivalogo.png",
+      logoUrl: " /lunivalogo.png",
       start: "May 2022",
       end: "Dec 2023",
       description:
@@ -63,7 +63,7 @@ export const DATA = {
       href: "https://igc.com.np",
       location: "Hybrid",
       title: "Front End Developer",
-      logoUrl: "public/igc.jpg",
+      logoUrl: " /igc.jpg",
       start: "Dec 2023",
       end: "Present",
       description:
@@ -76,7 +76,7 @@ export const DATA = {
       school: "Purbanchal University",
       href: "https://www.puexam.edu.np/",
       degree: "BIT",
-      logoUrl: "public/purbanchal.png",
+      logoUrl: " /purbanchal.png",
       start: "2023",
       end: "2024",
     },
@@ -103,7 +103,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "public/bakersden.mp4",
+        " /bakersden.mp4",
     },
     {
       title: "Mission Go Japan",
@@ -126,7 +126,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "public/igc.mp4",
+      video: " /igc.mp4",
     },
   ],
 
