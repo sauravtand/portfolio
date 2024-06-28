@@ -19,7 +19,7 @@ export const DATA = {
     "PHP",
     "MS SQL SERVER",
     "MySQL",
-
+    "Firebase",
   ],
   contact: {
     email: "sauravtand2375@gmail.com",
