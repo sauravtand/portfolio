@@ -52,7 +52,7 @@ export const DATA = {
       location: "Onsite",
       title: "React Developer",
       logoUrl: " /lunivalogo.png",
-      start: "May 2022",
+      start: "July 2021",
       end: "Dec 2023",
       description:
         "Created bakery management system, contributed in ticket colleting app for sajha buses in Pokhara,handled the Hospital Managements Database",
@@ -127,6 +127,29 @@ export const DATA = {
       ],
       image: "",
       video: " /igc.mp4",
+    },
+    {
+      title: "Pokhara Yatayat",
+      href: "http://lunivat.ddns.net:8080/pokharayatayatdemo/login",
+      dates: "June 2023 - Present",
+      active: true,
+      description:
+        "Designed, developed for tracing buses location with their total income.",
+      technologies: [
+        "React Js",
+        "Antd",
+        ".NET",
+        "MSSQLSERVER"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "http://lunivat.ddns.net:8080/pokharayatayatdemo/login",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "/pokharayatayat.mp4",
     },
   ],
 

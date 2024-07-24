@@ -1,9 +1,7 @@
 export const slugs = [
   "typescript",
   "javascript",
-
   "react",
-
   "html5",
   "css3",
   "mssqlserver",
@@ -12,11 +10,9 @@ export const slugs = [
   "vercel",
   "mysql",
   "git",
-
   "github",
   "gitlab",
   "visualstudiocode",
   "androidstudio",
-  "sonarqube",
   "figma",
 ];
