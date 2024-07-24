@@ -77,7 +77,7 @@ export const DATA = {
       href: "https://www.puexam.edu.np/",
       degree: "BIT",
       logoUrl: " /purbanchal.png",
-      start: "2023",
+      start: "2019",
       end: "2024",
     },
   ],
@@ -151,6 +151,30 @@ export const DATA = {
       image: "",
       video: "/pokharayatayat.mp4",
     },
+    {
+      title: "Datametric",
+      href: "http://lunivacare.ddns.net:8080/datametricUAT1/login",
+      dates: "June 2023 - Present",
+      active: true,
+      description:
+        "Designed, developed for tracing hospital inventory items.",
+      technologies: [
+        "React Js",
+        "Antd",
+        ".NET",
+        "MSSQLSERVER"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "http://lunivacare.ddns.net:8080/datametricUAT1/login",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "/datametric.mp4",
+    },
+
   ],
 
 } as const;
