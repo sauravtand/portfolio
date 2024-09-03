@@ -9,7 +9,7 @@ export const DATA = {
   description:
     "Enthusiatic Frontend Developer. I love building things and helping people. Very active on Github.",
   summary:
-    " Recently, [I am pursuing my Bachelors Degree in Information Technology ](/#education), I did my intern at Luniva Tech Pvt. Ltd. , and now I am working as Frontend Developer at IGC Business Holding Company",
+    "Experienced web developer with 3+ years in React.js and 1.5+ years specializing in Next.js. Skilled in building dynamic, responsive, and scalable web applications with a focus on performance optimization and user experience. Eager to contribute to innovative projects in a forward-thinking environment.",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
