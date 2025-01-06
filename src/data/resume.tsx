@@ -68,7 +68,7 @@ export const DATA = {
       title: "Front End Developer",
       logoUrl: " /igc.jpg",
       start: "Dec 2023",
-      end: "Present",
+      end: "July 2024",
       description:
         "Built the web app that tracks the details and progress of the peoples that are trying for abroad studies or work mainly Japan",
     },
@@ -80,7 +80,7 @@ export const DATA = {
       title: "Front End Developer",
       logoUrl: " /shot.png",
       start: "Dec 2023",
-      end: "July 2024",
+      end: "Present",
       description:
         "Built the web app that for tracking the scraps for its recycling and delivery details",
     },
