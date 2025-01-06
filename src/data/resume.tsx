@@ -79,7 +79,7 @@ export const DATA = {
       location: "Remote",
       title: "Front End Developer",
       logoUrl: " /shot.png",
-      start: "Dec 2023",
+      start: "Aug 2024",
       end: "Present",
       description:
         "Built the web app that for tracking the scraps for its recycling and delivery details",
@@ -96,6 +96,23 @@ export const DATA = {
     },
   ],
   projects: [
+    {
+      title: "Luniva Tech Company Website",
+      href: "https://www.lunivatech.com/",
+      dates: "",
+      active: true,
+      description: "Built personal website for company",
+      technologies: ["React", "Antd", ".Net"],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.lunivatech.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "/lunivatech.mp4",
+    },
     {
       title: "Bakery Management",
       href: "http://lunivacare.ddns.net:8080/lunivaproductentry/",
@@ -114,24 +131,7 @@ export const DATA = {
       image: "",
       video: " /bakersden.mp4",
     },
-    {
-      title: "Mission Go Japan",
-      href: "https://app.missiongojapan.com/",
-      dates: "June 2023 - Present",
-      active: true,
-      description:
-        "Designed, developed for tracing record of student and worker applying for Japan.",
-      technologies: ["Next.js", "Typescript", "Firebase", "MUI"],
-      links: [
-        {
-          type: "Website",
-          href: "https://app.missiongojapan.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video: " /igc.mp4",
-    },
+
     {
       title: "Pokhara Yatayat",
       href: "http://lunivat.ddns.net:8080/pokharayatayatdemo/login",
@@ -166,6 +166,25 @@ export const DATA = {
       ],
       image: "",
       video: "/datametric.mp4",
+    },
+
+    {
+      title: "Mission Go Japan",
+      href: "https://app.missiongojapan.com/",
+      dates: "June 2023 - Present",
+      active: true,
+      description:
+        "Designed, developed for tracing record of student and worker applying for Japan.",
+      technologies: ["Next.js", "Typescript", "Firebase", "MUI"],
+      links: [
+        {
+          type: "Website",
+          href: "https://app.missiongojapan.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: " /igc.mp4",
     },
 
     {
