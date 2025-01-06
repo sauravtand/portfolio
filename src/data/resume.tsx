@@ -21,6 +21,7 @@ export const DATA = {
     "MS SQL SERVER",
     "MySQL",
     "Firebase",
+    "Tailwind Css",
   ],
   contact: {
     email: "sauravtand2375@gmail.com",
@@ -58,6 +59,7 @@ export const DATA = {
       description:
         "Created bakery management system, contributed in ticket colleting app for sajha buses in Pokhara,handled the Hospital Managements Database",
     },
+
     {
       company: "IGC Business Holding",
       badges: [],
@@ -69,6 +71,18 @@ export const DATA = {
       end: "Present",
       description:
         "Built the web app that tracks the details and progress of the peoples that are trying for abroad studies or work mainly Japan",
+    },
+    {
+      company: "Shot Coders Tech",
+      badges: [],
+      href: "https://www.shotcoder.com/",
+      location: "Remote",
+      title: "Front End Developer",
+      logoUrl: " /shot.png",
+      start: "Dec 2023",
+      end: "July 2024",
+      description:
+        "Built the web app that for tracking the scraps for its recycling and delivery details",
     },
   ],
   education: [
