@@ -95,6 +95,14 @@ export const DATA = {
       end: "2024",
     },
   ],
+  training: [
+    {
+      school: "Digital Marketing Training",
+      href: "https://upskillsnepal.com/",
+      des: "Digital Marketing Traing from UpSkills Nepal",
+      logoUrl: " /upskill.png",
+       },
+  ],
   projects: [
     {
       title: "Luniva Tech Company Website",

@@ -143,6 +143,33 @@ export default function Page() {
 
       </section>
 
+      <section id="training">
+        <div className="flex min-h-0 flex-col gap-y-3">
+          <BlurFade delay={BLUR_FADE_DELAY * 7}>
+            <h2 className="text-xl font-bold">Training</h2>
+          </BlurFade>
+          {DATA.training.map((train, id) => (
+            <BlurFade
+              key={train.school}
+              delay={BLUR_FADE_DELAY * 8 + id * 0.05}
+            >
+              <ResumeCard
+                key={train.school}
+                href={train.href}
+                logoUrl={train.logoUrl}
+                altText={train.school}
+                title={train.school}
+                period=""
+                description={train.des}
+              />
+            </BlurFade>
+          ))}
+
+        </div>
+
+      </section>
+
+
       <section id="projects">
         <div className="space-y-12 w-full py-12">
           <BlurFade delay={BLUR_FADE_DELAY * 11}>
@@ -184,7 +211,9 @@ export default function Page() {
           </div>
         </div>
 
+
       </section>
+   
       <section id="contact">
         <div className="grid items-center justify-center gap-4 px-4 text-center md:px-6 w-full py-12">
           <BlurFade delay={BLUR_FADE_DELAY * 16}>
